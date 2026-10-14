@@ -1,5 +1,7 @@
 # study-assistant
 
+[![CI](https://github.com/roastytoasty777/study-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/roastytoasty777/study-assistant/actions/workflows/ci.yml)
+
 Un assistant d'étude qui répond à tes questions à partir de **tes propres documents** (cours, notes, documentation) et cite ses sources.
 
 > Projet en cours de construction.
